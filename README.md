@@ -31,7 +31,8 @@ Technical Specialist: [](https://t.me/drdren88)[https://t.me/drdren88](https://t
 Mail: [info@amlcrypto.io](mailto:info@amlcrypto.io)
 TG: [](https://t.me/AMLCrypto)[https://t.me/AMLCrypto](https://t.me/AMLCrypto)
 Messenger: [](https://m.me/109912625196210)[https://m.me/109912625196210](https://m.me/109912625196210)
-Viber: viber://pa?chatURI=amlcrypto LinkedIn: [](https://www.linkedin.com/company/89214332/)[https://www.linkedin.com/company/89214332/](https://www.linkedin.com/company/89214332/)
+Viber: viber://pa?chatURI=amlcrypto
+LinkedIn: [](https://www.linkedin.com/company/89214332/)[https://www.linkedin.com/company/89214332/](https://www.linkedin.com/company/89214332/)
 Twitter: [](https://twitter.com/aml_crypto)[https://twitter.com/aml_crypto](https://twitter.com/aml_crypto)
 Discord: AML Crypto#2655
 
