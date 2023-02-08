@@ -21,13 +21,9 @@ The goal of our team is to make the blockchain transparent and understandable fo
 **Our website:** [](https://amlcrypto.io/)[https://amlcrypto.io/](https://amlcrypto.io/)
 
 **Our contact details:**
-
 CEO: [](https://t.me/lvv365)[https://t.me/lvv365](https://t.me/lvv365)
-
 COO: [](https://t.me/tactnick)[https://t.me/tactnick](https://t.me/tactnick)
-
 CTO: [](https://t.me/id017)[https://t.me/id017](https://t.me/id017)
-
 Partner Devmanager: [](https://t.me/unearthedtomb)[https://t.me/unearthedtomb](https://t.me/unearthedtomb)
 
 Technical Specialist: [](https://t.me/drdren88)[https://t.me/drdren88](https://t.me/drdren88)
