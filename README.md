@@ -39,5 +39,5 @@ Discord: AML Crypto#2655
 
 **Projects we are in:** Everscale, TRON, Venom, TON, Solana, Mina, Newrl
 
-**Testnet in which we participate:** Aleo, TON, Namada, IronFish, NYM, Mina, Casper, Newrl, Massa, Minima, Meson, Ziesha, Thepower, MVC, Sui, Subspace, OKP4, Meson, Sei , Sui, Celestia, Sisu, Lamina1
+**Testnet in which we participate:** Aleo, TON, Namada, IronFish, NYM, Mina, Casper, Newrl, Massa, Minima, Meson, Ziesha, Thepower, MVC, Sui, Subspace, OKP4, Meson, Sei, Sui, Celestia, Sisu, Lamina1
 ![](https://raw.githubusercontent.com/amlcrypto/info/main/img/amlcrypto_projects.png)
